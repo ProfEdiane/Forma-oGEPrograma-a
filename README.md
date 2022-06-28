@@ -5,6 +5,7 @@ Professores e Professoras do GE de Programação e Pensamento Computacional do E
 
 ## Linguagem utilizada
 
+- JavaScript
 - HTML
 - CSS
 
