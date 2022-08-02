@@ -1,14 +1,18 @@
-body{
-    background-color: aquamarine;
-
+body {
+    background-color: #D57DF5;
+}
+h1, h2 {
+    text-align: center;
+    font-size: 30px;
 }
 
 h1 {
-    text-align: center;
+    color: #2F1B36;
 }
-
+h2 {
+    color: rgb (102,60,117);
+}
 p {
-    font-size: 20px;
-    color: blue;
-    text-align: center;
-}
+ text-align: justify;
+ font-size: 25px;
+ }
