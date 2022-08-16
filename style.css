@@ -1,6 +1,13 @@
 body {
     background-color: #739FFF;
 }
+
+#imagem-principal {
+    width: 25%;
+    height: 25%;
+    border: 10px dotted rgb(0,255,242);
+    margin-left: 35%;
+ }
 h1 {
     text-align: center;
     font-size: 30px;
@@ -21,15 +28,21 @@ p {
  font-size: 25px;
  }
 
- #texto-principal {
-    font-size: 30px;
+ #b {
+    
+    color: rgb(40, 11, 11);
  }
 
- #imagem-principal {
-    width: 25%;
-    height: 25%;
-    border: 10px dotted rgb(0,255,242);
-    margin-left: 35%;
+ h3 {
+    font-size: 25px;
+    text-align: center;
  }
+ .a {
+    font-size: 23px;
+    font-style: italic;
+    color: rgb(95, 8, 8);
+ }
+ 
+
 
  
